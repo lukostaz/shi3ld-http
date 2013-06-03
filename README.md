@@ -39,6 +39,6 @@ The Shi3ld-LDP scenarios embed the [Corese/KGRAM](http://wimmics.inria.fr/corese
 
 ### Testing
 
-Shi3ld-HTTP can be tested with a [standalone client](file://localhost/Users/lcostabe/Documents/Thesis/shi3ld/website/shi3ld-ldp-old/shi3ld-test-policies.zip) shipped with sample client attributes.
+Shi3ld-HTTP can be tested with a [standalone client](http://wimmics.inria.fr/projects/shi3ld-ldp/shi3ld-test-client.zip) shipped with sample client attributes.
 
-Sample Access Policies can be found [here](file://localhost/Users/lcostabe/Documents/Thesis/shi3ld/website/shi3ld-ldp-old/shi3ld-test-policies.zip).
+Sample Access Policies can be found [here](http://wimmics.inria.fr/projects/shi3ld-ldp/shi3ld-test-policies.zip).
